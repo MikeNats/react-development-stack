@@ -1,4 +1,4 @@
-#React Development Stack
+# React Development Stack
 
 * React
 * Foundation sites
@@ -6,7 +6,7 @@
 * e2e tests: cucumber, gherkins, webdriverIO, chai
 
 
-##Installation:
+## Installation:
 
 ```bash
     $ git clone https://github.com/MikeNats/react-development-stack.git
@@ -16,9 +16,9 @@
     $ npm install
 ```
 
-##How to use:
+## How to use:
 
-###To build on development mode. 
+### To build on development mode. 
 
 Generates a minified version with source map.
 
@@ -26,7 +26,7 @@ Generates a minified version with source map.
     $ npm run build:dev
 ```
 
-###To build on production mode.
+### To build on production mode.
 
 Compiles all the script from `src` path to `bundle`. The kit generates source maps by default in development mode.
 
@@ -34,7 +34,7 @@ Compiles all the script from `src` path to `bundle`. The kit generates source ma
     $ npm run build
 ```
 
-###To use webpack dev server & watch,
+### To use webpack dev server & watch,
 
 ```bash
     $ npm start
@@ -42,7 +42,7 @@ Compiles all the script from `src` path to `bundle`. The kit generates source ma
 
 Listens at [http://localhost:8080](http://localhost:8080)
 
-##Test:
+## Test:
 
 To run unit tests
 
