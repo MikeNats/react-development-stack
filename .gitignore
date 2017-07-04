@@ -4,3 +4,5 @@ test-report.html
 package-lock
 src/__snapshots__
 errorShots
+package-lock.json
+package-lock**.json
