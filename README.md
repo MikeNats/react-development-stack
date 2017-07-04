@@ -1,4 +1,4 @@
-#React Development Stack
+-React Development Stack
 
 * React
 * Foundation sites
