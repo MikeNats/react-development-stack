@@ -1,0 +1,9 @@
+{
+  "extends": ["standard-jsx"],
+  "env": {
+    "es6": true
+  },
+  "rules": {
+      "indent": ["error", "tab"]
+  }
+}
